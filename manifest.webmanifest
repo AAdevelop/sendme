@@ -5,7 +5,8 @@
   "background_color": "#ffffff",
   "display": "fullscreen",
   "orientation": "portrait",
-  "Scope": "/",
+  "description": "qrcode",
+
   "start_url": "https://aadevelop.github.io/sendme/",
   "icons": [
     {
@@ -48,6 +49,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "splash_pages": null
+  ]
 }
