@@ -3,7 +3,7 @@
   "short_name": "SEND-ME",
   "theme_color": "#fefefe",
   "background_color": "#ffffff",
-  "display": "browser",
+  "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": "https://aadevelop.github.io/sendme/",
