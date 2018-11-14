@@ -3,7 +3,7 @@
   "short_name": "SEND-ME",
   "theme_color": "#fefefe",
   "background_color": "#ffffff",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
   "description": "qrcode",
   "start_url": "index.html",
