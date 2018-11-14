@@ -6,6 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "description": "qrcode",
+  "start_url": "index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
